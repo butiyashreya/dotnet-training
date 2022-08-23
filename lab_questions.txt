@@ -180,6 +180,7 @@ d) Run time error
 
  Answer: B
 
+<<<<<<< HEAD
     Anser: d
 
 7. 5. When a function fun() is to receive an int, a single & a double and it is to return a decimal, then the correct way of defining this C# function is?
@@ -251,3 +252,6 @@ c)
 d) None of the mentioned
 
 answer: A
+=======
+    Anser: d
+>>>>>>> 29c4416d2c4b009b5fe4586f6dddce160b74cbbf
